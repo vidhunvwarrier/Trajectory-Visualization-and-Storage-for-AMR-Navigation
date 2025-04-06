@@ -172,4 +172,4 @@ source install/setup.bash
 ---
 
 ## Video Demo
-[▶ Watch the demo](screen_rec.mp4)
+[▶ Watch the demo](demo.mp4)
